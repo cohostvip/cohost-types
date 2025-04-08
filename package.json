@@ -1,0 +1,16 @@
+{
+  "name": "@guestwho/types",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "description": "Cohost types",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cohostvip/cohost-types"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+    "typescript": "5.8.3"
+  },
+  "version": "0.1.0"
+}

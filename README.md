@@ -1,0 +1,2 @@
+# Cohost Types
+
